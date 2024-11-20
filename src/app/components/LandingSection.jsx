@@ -12,7 +12,7 @@ const LandingSection = () => {
         {/* Landing Content */}
         <h2 className="pt-20 leading-normal">
              <p>
-                I'm 
+                I&apos;m 
                 <span className="font-bold"> Eric Eleam</span>, 
                 a Computer Science 
             </p>
